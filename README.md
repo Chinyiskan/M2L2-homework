@@ -320,11 +320,3 @@ Si quieres ir más allá y destacar:
 **¡Mucha suerte, developer! 💪**
 
 **Recuerda:** No estás resolviendo un ejercicio de clase. Estás construyendo un producto para un cliente real. Piensa como un profesional, trabaja como un profesional. 🎯
-
----
-
-**Desarrollado por:** The Bit Masters Agency  
-**Módulo:** 2 - Lección 2: Funciones  
-**Dificultad:** ⭐⭐⭐ Intermedio-Avanzado  
-**Tipo:** Home Challenge / Proyecto Freelance Simulado  
-**Versión:** 1.0
