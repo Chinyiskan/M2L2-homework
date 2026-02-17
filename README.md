@@ -268,14 +268,6 @@ Si quieres ir más allá y destacar:
 
 ---
 
-## 📅 Plazo de Entrega
-
-**Fecha límite:** [DEFINIR FECHA]
-
-**Método de entrega:** [DEFINIR MÉTODO]
-
----
-
 ## 🆘 Recursos de Apoyo
 
 ### Documentación:
